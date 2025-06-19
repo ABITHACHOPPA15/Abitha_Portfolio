@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+header, footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+section {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+h1, h2 {
+  color: #005f73;
+}
+a {
+  color: #0a9396;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.resume-btn {
+  background-color: #0a9396;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
